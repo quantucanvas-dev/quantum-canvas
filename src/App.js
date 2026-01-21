@@ -913,8 +913,7 @@ const QuantumArtGenerator = () => {
               <div className="mt-4 flex items-center gap-2 text-xs text-amber-400/70 bg-amber-500/10 rounded-lg p-3">
                 <span>🚀</span>
                 <span>
-                  IBM Quantum integration coming soon! Sign up for notifications
-                  at quantum.ibm.com to be ready when we launch.
+                  IBM Quantum integration coming soon!
                 </span>
               </div>
             </div>
